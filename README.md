@@ -3,9 +3,17 @@
 O Projeto Padaria Online é uma aplicação desenvolvida para oferecer aos clientes uma experiência intuitiva e conveniente ao fazer pedidos de produtos de padaria online. Com recursos para navegar pelos produtos, adicionar itens ao carrinho, editar o carrinho de pedidos, cadastrar endereço via CEP, visualizar histórico de pedidos e fazer novos pedidos, este aplicativo atende às necessidades dos clientes que desejam comprar produtos de padaria de forma fácil e rápida.
 
 ## Imagens do App
+<table>
+  <tr>
+<td><img src="https://github.com/giuliano15/Projeto-Padaria/assets/12647380/685b326c-012c-4117-b815-dd2f781c6bb9" alt="Imagem 2"></td>
+<td><img src="https://github.com/giuliano15/Projeto-Padaria/assets/12647380/d3d5d585-2c83-4546-875c-799f122aab72" alt="Imagem 2"></td>
+<td><img src="https://github.com/giuliano15/Projeto-Padaria/assets/12647380/8f9f2f35-7299-4739-a319-c2d4ab907d8b" alt="Imagem 2"></td>
+<td><img src="https://github.com/giuliano15/Projeto-Padaria/assets/12647380/e2f9d37c-2a12-474e-a4b9-1ceb8e6a30b9"></td>
+<td><img src="https://github.com/giuliano15/Projeto-Padaria/assets/12647380/950837aa-b0d9-445e-a3b9-b867c7ca7e16"></td>
+ </tr>
+</table>
 
-[Inserir imagens do aplicativo aqui]
-
+  
 ## Funcionalidades Principais
 
 - **Navegação por Produtos:** Os clientes podem navegar pelos produtos da padaria por categoria, permitindo uma experiência de compra mais organizada e direcionada.
@@ -17,6 +25,7 @@ O Projeto Padaria Online é uma aplicação desenvolvida para oferecer aos clien
 - **Pedidos Anteriores:** Os clientes podem fazer novos pedidos com base nos pedidos anteriores, facilitando a compra de produtos frequentemente adquiridos.
 - **Fale conosco:** Serviço de atendimento direto via whats ou telefone.
 - **Cupons de desconto:** Serviço de cuposn de descontos oferecido pela loja.
+- **Serviço de delivery:** O usuario faz o pedido via whatsapp e a entrega é feita em domicilio conforme especificação do usuario.
 
 ## Ferramentas Utilizadas
 
