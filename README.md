@@ -42,7 +42,11 @@ O Projeto Padaria Online é uma aplicação desenvolvida para oferecer aos clien
 
 ## Demonstração em Vídeo
 
-[Inserir link para o vídeo de demonstração aqui]
+
+
+https://github.com/giuliano15/Projeto-Padaria/assets/12647380/0ee4fab9-f3a5-445b-8387-30d6a3559f75
+
+
 
 ## Como Usar
 
